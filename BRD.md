@@ -1,5 +1,5 @@
 # Business Requirements Document (BRD)
-## E-Commerce Checkout Revamp — ShopSwift
+## E-Commerce Checkout Revamp - ShopSwift
 
 **Prepared by:** Nishchal Raja, Business Analyst
 **Version:** 1.0 | **Status:** Approved for Development
