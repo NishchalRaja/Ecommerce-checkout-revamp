@@ -1,4 +1,4 @@
-# User Stories — E-Commerce Checkout Revamp
+# User Stories - E-Commerce Checkout Revamp
 
 Derived from the [BRD](./BRD.md) functional requirements (FR-01 through FR-08), organized into five epics.
 
