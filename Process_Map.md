@@ -1,4 +1,4 @@
-# Process Map — E-Commerce Checkout Revamp
+# Process Map - E-Commerce Checkout Revamp
 
 ## As-Is Process (Current State)
 
