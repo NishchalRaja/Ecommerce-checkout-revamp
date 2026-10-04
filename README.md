@@ -167,8 +167,7 @@ This repository contains:
 ## 📞 Contact & Questions
 
 **Author:** Nishchal Raja
-**Email:** [your.email@example.com]
-**LinkedIn:** [Your LinkedIn profile]
+**Email:** nishchalraja68@gmail.com
 
 For questions about this analysis or project details, feel free to reach out!
 
